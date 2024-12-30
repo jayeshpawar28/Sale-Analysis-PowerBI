@@ -1,2 +1,3 @@
-# Sale-Analysis-PowerBI
-Power BI project a comprehensive sales analysis dashboard.
+# Sales Performance Analysis Dashboard - Power BI 
+
+[Dashboard Picture](Dashboard-Picture.png)
