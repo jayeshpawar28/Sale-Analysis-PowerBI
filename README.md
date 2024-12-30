@@ -16,6 +16,6 @@ This project allowed me to dive deep into data modeling (using star schema), DAX
 
 # Check it out here
 
-* Live Dashboard: [App PowerBi Link(https://bit.ly/3Pee209)]
+* Live Dashboard: [App PowerBi Link(https://bit.ly/3Pee209)
 
 Thank You! 
