@@ -1,3 +1,3 @@
 # Sales Performance Analysis Dashboard - Power BI 
 
-[Dashboard Picure](Dashboard-Picture.png)
+![Dashboard Picure](Dashboard-Picture.png)
